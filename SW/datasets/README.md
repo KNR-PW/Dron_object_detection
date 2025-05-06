@@ -27,19 +27,19 @@ https://universe.roboflow.com/new-workspace-eiscf/yolov5persondetector
 ## Safety Vest + Hardhat
 https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety
 
-# also human, but delete if trouble from high altitude
+#### also human, but delete if trouble from high altitude
 https://universe.roboflow.com/roboflow-universe-projects/personal-protective-equipment-combined-model
 
-# also human, same as above
+#### also human, same as above
 https://universe.roboflow.com/ruisong-zheng-ic9t9/ppe-3.16
 
-# only Safety vest
+#### only Safety vest
 https://universe.roboflow.com/roboflow-universe-projects/safety-vests
 
-# only Hardhat
+#### only Hardhat
 https://universe.roboflow.com/universe-datasets/hard-hat-universe-0dy7t
 
-# only Safety vest
+#### only Safety vest
 https://universe.roboflow.com/filubels/deeplope
 
 

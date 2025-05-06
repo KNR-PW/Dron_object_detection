@@ -3,12 +3,6 @@ https://docs.google.com/document/d/1wU16wfVyw3NkAwoQJrEnreeYpgM6BZ6omETgWTGLDKQ/
 
 https://universe.roboflow.com/
 
-The DATASET and individual datasets are already filtered and prepared. They share the following common classes:
-```bash
-nc: 3
-names: ['Human', 'Safety vest', 'Hardhat']
-```
-
 ## Human
 https://universe.roboflow.com/lifesparrow/images-25-8
 

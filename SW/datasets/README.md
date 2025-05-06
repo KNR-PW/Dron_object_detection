@@ -12,7 +12,6 @@ https://universe.roboflow.com/dipto-sarkar/merge1-thsaj
 
 https://universe.roboflow.com/taskforceswarm/personfinder-ewfix
 
-*
 https://universe.roboflow.com/kyawyeaung/small-objects_111111
 
 https://universe.roboflow.com/alex-eagles-5-m/suas-mannequin-detection

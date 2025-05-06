@@ -5,6 +5,7 @@ import os
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # path to datasets yaml file
+dataset_folder_path = " "
 data_yaml_path = os.path.join(script_dir, 'construction-safety-2/data.yaml')
 model_size = "n" #n,s,m
 batch = 10 # how much vram do you have? size 150 for 48GB

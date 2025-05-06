@@ -22,6 +22,10 @@ https://universe.roboflow.com/ttttt-pxiqn/w-dh28y
 
 https://universe.roboflow.com/new-workspace-eiscf/yolov5persondetector
 
+https://universe.roboflow.com/visionflow/koko-jss0l
+
+https://universe.roboflow.com/visionflow/xml2coco-36m17
+
 
 ## Safety Vest + Hardhat
 https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety
